@@ -91,4 +91,4 @@ This project aims to speed up the debugging process by converting complex error 
 ---
 
 ### 👩‍💻 Developer
-* Zeynep Coşkuner
+### Zeynep Coşkuner
